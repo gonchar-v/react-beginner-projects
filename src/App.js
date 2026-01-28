@@ -13,7 +13,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="app">
       <div>
         <h2>Счетчик:</h2>
         <h1>{count}</h1>
